@@ -22,4 +22,5 @@
             <artifactId>order-application-service</artifactId>
         </dependency>
     </dependencies>
+
 </project>
